@@ -1,0 +1,15 @@
+  {
+      "users": [{
+              "user_id": 1,
+              "name": "beatriz",
+              "email": "beatriz@gmail.com",
+              "password": "12345678"
+          },
+          {
+              "user_id": 2,
+              "name": "Luiz Fernando",
+              "email": "luizfernando@gmail.com",
+              "password": "abcdefgh"
+          }
+      ]
+  }
